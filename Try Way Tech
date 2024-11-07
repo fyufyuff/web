@@ -42,6 +42,7 @@
                <label for="message">Message:</label>
             <textarea id="message" name="message" required></textarea><p>
             <button type="submit">Send</button>
+            <button type="cancel">Cancel</button>
         </form>
     </section>
 
