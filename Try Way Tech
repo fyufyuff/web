@@ -2,70 +2,64 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=8.0">
     <title>Your Business Name</title>
     <link rel="stylesheet" href="styles.css">
-      <html>
-        <head>
-          <title>Enter your Deatails</title>
-          <style>
-          input[type="Send"]{
-          background-color:green</style>
+      
 </head>
 <body>
     <header>
-        <h1>Welcome to Our Try Way Tech</h1>
-        <nav>
+        <h1 style="font-size: 4em;">Welocome to Our Try Way Tech</h1>
             <ul>
-               <li><a href="#home">Home</a></li>
-               <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+               <li><a href="#home"style="font-size: 30px;">Home</a></li>
+               <li><a href="#about"style="font-size: 30px;">About</a></li>
+                <li><a href="#contact"style="font-size: 30px";>Contact</a></li>
             </ul>
-        </nav>
+
     </header>
 
     <section id="home">
-        <h2>Home</h2>
-        <p>Welcome to our Try Way Tech website. We offer the best services for you.</p>
+        <h2 style="font-size: 3em;">Home</h2>
+        <p><p style="font-size: 25px;">Welcome to our Try Way Tech website. We offer the best services for you.</p>
     </section>
 
     <section id="about">
-        <h2>About Us</h2>
-        <p>Yes!We are the Freshers and Youngsters,but!We Promising You Our Work Completeness and Time Keeping is Really Impressing You!,our values, and our team.</p>
+        <h2 style="font-size: 3em;">About Us</h2>
+        <p><p style="font-size: 25px;">Yes!We are the Freshers and Youngsters,but!We Promising You Our Work Completeness and Time Keeping is Really Impressing You!,our values, and our team.</p><p style="font-size: 18px;">
     </section>
   <form action="mailto:trywaytech@gmail.com?subject=Client Information&body=" method="post" enctype="text/plain">
 
 
     <section id="contact">
-        <h2>Enter your Deatails</h2>
+        <h2 style="font-size: 3em;">Enter your Deatails</h2>
         <form id="contact-form">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required><p>
+          <p> <p style="font-size: 25px;"><label for="name">Name:</label>
+            <input type="text" id="name" name="name" required><p><p style="font-size: 25px;">
             <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required> <p>
+        <input type="email" id="email" name="email" required> <p><p style="font-size: 25px;">
            <label for="number">Number:</label>
-            <input type="number" id="number" number="number" required><p>
+            <input type="number" id="number" number="number" required><p><p style="font-size: 25px;">
                <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea><p>
+            <textarea id="message" name="message" required></textarea><p><p style="font-size: 25px;">
                <input type="submit" value="Send"
-                      style="background-color: green; color: white;"
-                      style="margin-right: 10px;">
-                 <button type="reset">Cancel</button>
+                      style="background-color: green; color: white;font-size: 20px;"">
+                    
+                 <button type="reset"style="font-size: 20px;">Cancel</button>
               </form>
     </section>
 
     <footer>
-        <p>&copy;Try Way Tech our Company.All rights reserved.</p>
+        <p><p style="font-size: 40px;">&copy;Try Way Tech our Company.All rights reserved.</p><p style="font-size: 30px;">
       The Company Holders Name are
        <footer>
-        <p>KAVIN.V
-          <p>LOKESH.S
-            <p>PATHMA PRASATH.A
-              <p>LOKESH.S
-                <p>TO CONTACT US
-                <p>Number:9342791177,8667649350
-                  <p>Email:trywaytech@gmail.com
-                    <p>Location:Salem
+        <p><p style="font-size: 25px;">KAVIN.V
+          <p><p style="font-size: 25px;">LOKESH.S
+            <p><p style="font-size: 25px;">PATHMA PRASATH.A
+              <p><p style="font-size: 25px;">LOKESH.S
+                <p><p style="font-size: 40px;">TO CONTACT US
+                <p><p style="font-size: 25px;">Number:9342791177,8667649350
+                  <p><p style="font-size: 25px;">Email:trywaytech@gmail.com
+                    <p><p style="font-size: 25px;">Location:Salem
       
       
     </footer>
