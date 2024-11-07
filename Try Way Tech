@@ -5,6 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Business Name</title>
     <link rel="stylesheet" href="styles.css">
+      <html>
+        <head>
+          <title>Enter your Deatails</title>
+          <style>
+          input[type="Send"]{
+          background-color:green</style>
 </head>
 <body>
     <header>
@@ -41,9 +47,13 @@
             <input type="number" id="number" number="number" required><p>
                <label for="message">Message:</label>
             <textarea id="message" name="message" required></textarea><p>
-            <button type="submit">Send</button>
-            <button type="cancel">Cancel</button>
-        </form>
+               <input type="submit" value="Send"
+                      style="background-color: green; color: white;"
+                      style="margin-right: 20px;">
+               <input type="cancel" value="cancel"
+ style="background-color: brown; color: white;"
+                      style="margin-left: 20px;">
+              </form>
     </section>
 
     <footer>
