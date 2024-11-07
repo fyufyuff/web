@@ -49,10 +49,8 @@
             <textarea id="message" name="message" required></textarea><p>
                <input type="submit" value="Send"
                       style="background-color: green; color: white;"
-                      style="margin-right: 20px;">
-               <input type="cancel" value="cancel"
- style="background-color: brown; color: white;"
-                      style="margin-left: 20px;">
+                      style="margin-right: 10px;">
+                 <button type="reset">Cancel</button>
               </form>
     </section>
 
@@ -67,7 +65,7 @@
                 <p>TO CONTACT US
                 <p>Number:9342791177,8667649350
                   <p>Email:trywaytech@gmail.com
-                    <p>location:Salem
+                    <p>Location:Salem
       
       
     </footer>
