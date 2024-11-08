@@ -44,7 +44,7 @@
                <input type="submit" value="Send"
                       style="background-color: green; color: white;font-size: 20px;"">
                     
-                 <button type="reset"style="font-size: 20px;">Cancel</button>
+                 <button type="reset" style="background-color: red; color: white; font-size: 18px;">Cancel</button>
               </form>
     </section>
 
